@@ -19,4 +19,4 @@ IDRC4は、 [RM4SCC](https://ja.wikipedia.org/wiki/RM4SCC) をもとにコード
 
 - made in Japan
 - powered by DevelopersPackages.org
-- liberate under BSD3 license - 3条項BSD使用許諾書に基づき自由ソフトウェアとして提供されています。
+- liberated under BSD3 license - 3条項BSD使用許諾書に基づき自由ソフトウェアとして提供されています。
