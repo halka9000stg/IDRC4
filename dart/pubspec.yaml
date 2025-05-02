@@ -1,0 +1,20 @@
+name: idrc4
+version: 0.1.1
+description: >
+  Official Dart implementation of IDRC4 (Identifier-usecase Royal Mail Code by 4-State),
+  an extension of RM4SCC designed for structured identifiers with code-page switching.
+author: Haruka Sato <as.he.that.doth.serve@gmail.com>
+homepage: https://idrc4.dev-pack.org
+documentation: https://idrc4.dev-pack.org/intro/
+repository: https://github.com/halka9000stg/IDRC4
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  barcode: ^2.2.9
+  barcode_image: ^2.0.3
+topics:
+  - idrc4
+  - rm4scc
+  - barcode
+  - identifier
+  - codec
