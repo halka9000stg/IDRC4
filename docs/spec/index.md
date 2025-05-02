@@ -1,3 +1,5 @@
+# IDRC4 仕様
+
 ## 概要
 
 IDRC4 (Identifier-usecase Royal-Mail Code by 4-State) は、識別子を示すためのバーコード仕様である。IDRC4は、 [RM4SCC (Royal Mail 4-State Customer Code)](https://ja.wikipedia.org/wiki/RM4SCC) を元にして、コードページの概念を加えて、その切り替え (シフト / 回転) によってRM4SCCより多くの文字を表現する。
